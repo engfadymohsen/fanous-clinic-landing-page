@@ -1,7 +1,3 @@
-Certainly! Here's a sample `README.md` for the "fanous-clinic-landing-page" repository:
-
----
-
 # Fanous Clinic Landing Page
 
 ## Overview
